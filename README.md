@@ -1,1 +1,1 @@
-# [Piskel Clone](https://artas0000.github.io/piskel-clone/dist/index.html)
+# [Piskel Clone](https://oigen43.github.io/TiPo/index.html)
